@@ -1,0 +1,31 @@
+.tweet-info{
+    min-height: 368px;
+    
+    .user-name{
+        font-family: 'BIZ UDPGothic',
+        sans-serif;
+        font-size: 24px;
+        margin-bottom: 18px;
+        line-height: 1;
+        padding-right: 10px;
+    }
+
+    .screen-name{
+        font-size: 20px;
+        opacity: 0.5;
+        margin-bottom: 26px;
+        line-height: 1;  
+        >span{
+            padding-left: 20px;
+        }
+    }
+
+
+    .text{
+        font-family: 'BIZ UDPGothic',sans-serif;
+        font-size: 20px;
+        line-height: 1.5;
+        min-height: 90px;
+    }
+
+}

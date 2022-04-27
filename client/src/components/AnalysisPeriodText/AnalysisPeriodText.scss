@@ -1,0 +1,15 @@
+.analysis-period-text{
+
+    
+    opacity: 0.5;
+
+    &>span:nth-child(1){
+        font-family: 'BIZ UDPGothic',sans-serif;
+        padding-right: 20px;
+        font-size: 20px;
+    }
+
+    &>span:nth-child(2){
+        font-size: 24px;
+    }
+}
